@@ -35,14 +35,15 @@ Planned learning/building time:
 
 | Time | Activity | What I Learned |
 |02;24 am| Started exploring Pipedream and webhook concepts| I am beginning to understand how a webhook allows one system to send data to another system automatically.|
-| | | |
-| | | |
-| | | |
+| 17;52 pm |Pipedream  | Started exploring Pipedream and identified the "Build automations" option as the workflow-building area.|
+|18;00 pm  | Created my first HTTP webhook in Pipedream |  I learned that a webhook can provide an HTTP endpoint that receives POST requests and exposes the received request data for later workflow steps|
+|15;45 pm | Pipedream  | I learned that Pipedream automatically provides an HTTP endpoint for receiving POST requests and displays the received request under the trigger results.|
+|15;50 pm | Opened the Pipedream workflow editor and examined the webhook trigger | I learned that the webhook is the trigger for the workflow and that additional steps can be connected to the trigger to process incoming data. |
 
 ## Blocker Log
 
 | Time | Blocker/Error | Investigation | Action Taken | Result |
-|---|---|---|---|---|
+| 16;01 pm  | Difficulty finding the Python code step because the search displayed many unrelated code apps | I checked the available options and identified the Pipedream Run Python option | Selected Run Python | Python code step added successfully |
 | | | | | |
 | | | | | |
 
