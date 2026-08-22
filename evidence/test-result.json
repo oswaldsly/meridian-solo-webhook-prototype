@@ -1,0 +1,17 @@
+{
+  "input": {
+    "event": "inventory.updated",
+    "sku": "SKU-1001",
+    "quantity": 25,
+    "available": true
+  },
+  "output": {
+    "status": "success",
+    "decision": "in_stock",
+    "action": "Inventory level is healthy",
+    "data": {
+      "sku": "SKU-1001",
+      "quantity": 25
+    }
+  }
+}
